@@ -5,3 +5,4 @@ package-lock.json
 dist/*
 .cache/*
 resources/full/*
+resources/venv/*
