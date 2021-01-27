@@ -14,7 +14,7 @@ npm test
 ![frame](doc/image/frame.svg)
 
 ## Working Process
-- [ ] Netcdf format parsing
+- [x] Netcdf format parsing
 - [ ] GIS format parsing
 - [ ] Json file generating
 - [ ] Echarts show 3D scalar field
