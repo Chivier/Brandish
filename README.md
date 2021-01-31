@@ -2,11 +2,11 @@
 
 Brandish is a Web-based application to display 3D geometry data.
 
-## How to start Brandish Frontend?
+## How to start Brandish?
 
 ```bash
-npm install
-npm test
+pip install -r requirements.txt
+python final_generator.py
 ```
 
 ## How to generate Brandish data?
@@ -25,8 +25,8 @@ npm test
 
 ## Working Process
 - [x] Netcdf format parsing
-- [ ] GIS format parsing
-- [ ] Json file generating
-- [ ] Echarts show 3D scalar field
-- [ ] Echarts show 3D vector field (flow field)
+- [x] GIS format parsing
+- [x] Json file generating
+- [x] Plotly show 3D scalar field
+- [ ] Plotly show 3D vector field (flow field)
 - [ ] Deploy on server
