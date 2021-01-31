@@ -9,6 +9,16 @@ npm install
 npm test
 ```
 
+## How to generate Brandish data?
+
+1. Download data from `resources/fulldata_url.txt`
+2. (Optional) Create python virtual environment.
+3. Execute:
+    ```bash
+    pip install -r requirements.txt
+    python nc_file_parser.py
+    ```
+
 ## Brandish Framwork
 
 ![frame](doc/image/frame.svg)

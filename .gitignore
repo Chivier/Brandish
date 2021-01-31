@@ -2,8 +2,9 @@
 .vscode/*
 node_modules/*
 package-lock.json
-dist/*
 .cache/*
 .DS_Store
 resources/full/*
 resources/venv/*
+resources/data.tif
+venv/*
